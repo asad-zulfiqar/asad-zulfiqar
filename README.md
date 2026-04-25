@@ -1,74 +1,256 @@
-# Asad Ali – Frappe/ERPNext Solutions Engineer (Full-Stack)
+<!--
+  GitHub Profile README for Asad Ali
+  Last updated: 2026-04-25
+-->
 
 <p align="center">
-  <h3>Building intelligent systems — from LLMs to ERPs, one commit at a time.</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&center=true&vCenter=true&width=800&height=50&lines=Building+intelligent+systems+—+from+LLMs+to+ERPs,+one+commit+at+a+time." alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Asad+Ali;Frappe+%2F+ERPNext+Solutions+Engineer+%7C+Full-Stack;AI%2FML+Engineering+%7C+Flutter+%7C+ERP+Automation;Building+intelligent+systems+%E2%80%94+from+LLMs+to+ERPs%2C+one+commit+at+a+time." alt="Typing SVG" />
+</p>
+
+<h1 align="center">Asad Ali</h1>
+<h3 align="center">Frappe / ERPNext Solutions Engineer (Full-Stack) • AI/ML Engineering • Flutter</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/asadsandhu0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Asad%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/asadsandhu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-asadsandhu-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@asadsandhu" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-asadsandhu-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Asad%20Ali-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asadsandhu0) 
-  [![GitHub](https://img.shields.io/badge/GitHub-asadsandhu-black?style=for-the-badge&logo=github)](https://github.com/asadsandhu) 
-  [![Medium](https://img.shields.io/badge/Medium-asadsandhu-white?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@asadsandhu)
+  <img src="https://img.shields.io/badge/Location-Faisalabad%2C%20Pakistan-1f425f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Company-Agrovisions-00A98F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%7C%20Flutter%20%7C%20ERP-7B61FF?style=for-the-badge" />
 </p>
 
-**Professional Summary:** Asad Ali is a full-stack and AI/ML engineer at Agrovisions (Faisalabad), focused on innovative AI-driven solutions and ERP customizations. He builds end-to-end intelligent systems — from fine-tuning large language models and RAG pipelines to multimodal AI apps — and frequently ships them as live Hugging Face demos【12†L223-L226】. His work spans deep learning research (e.g. custom Transformers converting pseudocode ↔ C++【31†L43-L51】) and practical ERPNext automation, exemplifying a broad technical skill set and product focus.
+---
 
-## 🚀 Current Projects & Achievements
-- **Visual Vault (Flutter/Firebase):** A cross-platform creator platform (FYP) unifying portfolios, collaboration tools, bookings and a marketplace【13†L56-L60】. Prototype has 50+ trial users, yielding a 30% lift in retention and 25% engagement boost via a smart recommendation engine.
-- **Frappe/ERPNext Custom Apps:** Built 15+ production-grade modules (e.g. Invoice OCR, Consignment Management, Commission Automation) with AI integration (OCR+embeddings, fuzzy matching) to automate complex business workflows.
-- **Hugging Face Demos:** All AI/ML projects (clinical RAG assistant, poetry generator, code translators, etc.) are deployed as interactive Gradio/Streamlit apps on Hugging Face Spaces【12†L223-L226】, each accompanied by a detailed Medium case study.
+## About Me
 
-## 🧰 Tech Stack
+I build intelligent, production-oriented systems across AI, mobile, and enterprise automation. My work sits at the intersection of retrieval-augmented generation, multimodal AI, Flutter app development, and deep Frappe/ERPNext customization.
+
+I care about shipping things that actually work in the real world: live demos, clean integrations, measurable product impact, and documentation that other engineers can use without guessing.
+
+---
+
+## Current Work
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>Visual Vault</h3>
+      <p>Cross-platform creator economy app</p>
+      <p><b>50+</b> trial users</p>
+      <p><b>30%</b> prototype retention improvement</p>
+      <p><b>25%</b> engagement boost via recommendation engine</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Frappe / ERPNext Suite</h3>
+      <p>Custom business automation apps</p>
+      <p><b>15+</b> shipped apps</p>
+      <p>Includes Invoice OCR, Consignment Management, Commission Automation</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>AI/ML Deployments</h3>
+      <p>Live interactive demos</p>
+      <p>All major AI/ML projects deployed on <b>Hugging Face Spaces</b></p>
+      <p>Documented with technical write-ups on <b>Medium</b></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tech Stack
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React/Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</p>
-*Icons from DevIcon【21†L207-L214】.*
-
-## 📊 Medium Articles
-I maintain an active [Medium blog](https://medium.com/@asadsandhu) with in-depth write-ups for each major project. Key articles include:
-
-| Project                     | Medium Article                                         |
-|-----------------------------|--------------------------------------------------------|
-| **Visual Vault (Flutter)**  | [Visual Vault: A Seamless Journey for Creators and Clients](https://medium.com/@asadsandhu/visual-vault-a-seamless-journey-for-creators-and-clients-de094017a3e7)【13†L56-L60】 |
-| **Clinical RAG Assistant**  | [RAGnosis: Building a Clinical Diagnostic Assistant](https://medium.com/@asadsandhu/ragnosis-building-a-clinical-diagnostic-assistant-with-retrieval-augmented-generation-39093bdf7dd4)【29†L49-L53】 |
-| **Code ↔ Pseudocode AI**    | [From Pseudocode to C++ and Back: Dual Transformers](https://medium.com/@asadsandhu/from-pseudocode-to-c-and-back-building-dual-transformers-from-scratch-8eb6ade34968)【31†L43-L51】 |
-| **Image Captioning (BLIP-2)** | [Teaching BLIP-2 to Describe Images](https://medium.com/@asadsandhu/teaching-blip-2-to-describe-images-a-hands-on-fine-tuning-pipeline-ad3f72d4a42e) |
-
-## 💻 Featured Open-Source Projects
-- **Visual Vault** – Flutter/Firebase creator ecosystem (portfolio + marketplace) for artists and clients【13†L56-L60】. *(Final Year Project)*  
-- **RAG-Diagnostic-Assistant** (RAGnosis) – An AI-powered clinical reasoning assistant over MIMIC-IV-Ext using FAISS and LLMs【29†L49-L53】. Provides retrieval-augmented medical insights.  
-- **Roman Urdu Poetry Generator** – LSTM-based model that composes Urdu poetry (Roman script) with a Gradio interface【47†L207-L214】. Trained on classic poetry verses.  
-- **Code2Pseudo / Pseudo2Code** – Custom Transformer models in PyTorch translating between C++ code and human-readable pseudocode【31†L43-L51】【49†L1-L4】. Both include web demos (Gradio) and were developed from scratch on the SPoC dataset.  
-- **Math-Meme-Repair** – Fine-tuned LLM to correct viral math meme puzzles (e.g. “8 ÷ 2(2+2) = ?” becomes 16)【50†L203-L210】.  
-- **Math-Riddle-Factory** – Transformer model to *generate* math riddles (e.g. “What number becomes zero when you subtract 15 from half of it?”)【53†L231-L239】.  
-- **ImageDescriber** – An app combining Whisper speech-to-text and BLIP-2 vision model for image captioning【54†L12-L16】. (GitHub: *asadsandhu/ImageDescriber*)
-
-【21†L243-L250】<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asadsandhu&show_icons=true&theme=dark" alt="GitHub Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadsandhu&theme=dark&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadsandhu&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
-## 🎓 Education & Achievements
-- **FAST-NUCES, Faisalabad** – B.Sc. Computer Science (2021–2025)  
-- **Government Islamia Graduate College, Faisalabad** – Intermediate (Pre-Engineering, 2019–2021)  
-- Active contributor to open-source and medium; currently no formal certifications or awards (focused on practical impact)
+<p align="center">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFCA1F?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BM25-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LSTM-9333EA?style=for-the-badge" />
+</p>
 
-## 🤝 Let’s Connect
-Open to collaborations, consulting, speaking or mentoring. Feel free to **[email me](mailto:asadalisandhu0@gmail.com)** or connect on [LinkedIn](https://linkedin.com/in/asadsandhu0). I’m eager to discuss AI/ML, full-stack/mobile, Frappe/ERPNext, and related technologies.
+<p align="center">
+  <img src="https://img.shields.io/badge/Whisper-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BLIP--2-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gradio-FC6A03?style=for-the-badge&logo=gradio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=asadsandhu&style=flat-square) *Last updated: April 25, 2026.*
+<p align="center">
+  <img src="https://img.shields.io/badge/Frappe-2490EF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ERPNext-2490EF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-1B1B1B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## Content Creator Stats
+
+<table align="center">
+  <tr>
+    <th>Medium Write-Up</th>
+    <th>Focus</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Clinical RAG System (DiReCT)</td>
+    <td>BM25 + FAISS retrieval over clinical notes with instruction-tuned LLMs</td>
+    <td><a href="https://medium.com/@asadsandhu" target="_blank">Medium profile</a></td>
+  </tr>
+  <tr>
+    <td>Visual Vault</td>
+    <td>Flutter + Firebase + Stripe creator platform with recommendation engine</td>
+    <td><a href="https://medium.com/@asadsandhu" target="_blank">Medium profile</a></td>
+  </tr>
+  <tr>
+    <td>Invoice OCR for ERPNext</td>
+    <td>Embeddings + fuzzy matching for noisy scanned invoices</td>
+    <td><a href="https://medium.com/@asadsandhu" target="_blank">Medium profile</a></td>
+  </tr>
+  <tr>
+    <td>Roman Urdu Poetry Generator</td>
+    <td>LSTM-based text generation with Gradio demo</td>
+    <td><a href="https://medium.com/@asadsandhu" target="_blank">Medium profile</a></td>
+  </tr>
+  <tr>
+    <td>Transformer-Based Code & NMT Models</td>
+    <td>Pseudocode ↔ C++ and Arabic → English translation systems</td>
+    <td><a href="https://medium.com/@asadsandhu" target="_blank">Medium profile</a></td>
+  </tr>
+  <tr>
+    <td>Ask-the-Image / AI Career Assistant / Meme Solver</td>
+    <td>Multimodal and assistant-style AI demos deployed on Hugging Face</td>
+    <td><a href="https://medium.com/@asadsandhu" target="_blank">Medium profile</a></td>
+  </tr>
+</table>
+
+---
+
+## Featured Work & Publications
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 1. Visual Vault
+Cross-platform creator economy app built with Flutter, Firebase, and Stripe. Focused on real user retention and recommendation-driven engagement.
+
+### 2. Clinical RAG System (DiReCT)
+A retrieval-augmented clinical assistant over MIMIC-IV-Ext using BM25, FAISS, and instruction-tuned LLMs.
+
+### 3. Roman Urdu Poetry Generator
+An LSTM-based creative text generator with a clean Gradio interface for interactive experimentation.
+
+### 4. Transformer-Based Code & NMT Models
+Custom transformer systems for code translation and neural machine translation, packaged for live demos.
+
+    </td>
+    <td width="50%" valign="top">
+
+### 5. AI Math Riddle & Meme Solver
+A playful AI project using GPT-2 and TinyLlama to generate and solve language-heavy reasoning tasks.
+
+### 6. Ask-the-Image App
+A multimodal app combining Whisper, BLIP-2, and TTS for image/audio-driven interaction.
+
+### 7. AI Career Assistant
+An AI assistant demo designed to help users interactively explore career-related prompts and workflows.
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadsandhu&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadsandhu&layout=compact&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadsandhu&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asadsandhu&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+## Education
+
+- **BS Computer Science** — FAST NUCES, CFD Campus, Faisalabad (2021–2025)
+- **Intermediate** — Government Islamia Graduate College, Faisalabad (2019–2021)
+
+---
+
+## Selected Achievements
+
+- Built **Visual Vault**, a full-stack cross-platform creator platform with measurable product gains.
+- Engineered a **Clinical RAG System (DiReCT)** over MIMIC-IV-Ext clinical notes.
+- Shipped **15+ production-grade Frappe/ERPNext apps** for business automation.
+- Built an **Invoice OCR pipeline** using embeddings and fuzzy matching for ERP data mapping.
+- Fine-tuned and deployed multiple **LLM and transformer-based systems**.
+- Every major AI/ML project is supported by a **live demo** and a **Medium write-up**.
+
+---
+
+## Let's Build Something Serious
+
+I am open to collaborations, hiring, consulting, and mentoring around:
+- Retrieval-Augmented Generation and LLM fine-tuning
+- Flutter + Firebase full-stack mobile apps
+- Frappe / ERPNext custom app development and automation
+- NLP, transformers, and multimodal AI systems
+- Deploying AI products on Hugging Face Spaces
+
+<p align="center">
+  <a href="mailto:asadalisandhu0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-asadalisandhu0%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/asadsandhu0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@asadsandhu" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Read%20My%20Work-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asadsandhu&style=for-the-badge&color=0e75b6" alt="Profile views" />
+</p>
+
+<p align="center">
+  Last updated: 2026-04-25
+</p>
